@@ -13,11 +13,11 @@ EKA is a Laravel-based web application designed to manage and list properties wi
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/EKA.git
+git clone https://github.com/Abdulhalimg2002/EKA.git
 cd EKA
 composer install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
-
+```
